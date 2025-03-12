@@ -1,0 +1,6 @@
+mongodump --forceTableScan --uri mongodb+srv://admin:cbm2023@cbm.d58bgyz.mongodb.net
+
+mongorestore
+
+
+mongorestore --uri mongodb+srv://admin:cbm2023@cbm.7vucwwh.mongodb.net
