@@ -38,3 +38,13 @@ import-*
 # Archivos temporales grandes
 *.tmp
 *.temp
+/backup
+/dump
+/export
+/import
+/migration
+/backup
+/dump
+/export
+/import
+/migration
